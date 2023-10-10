@@ -1,0 +1,22 @@
+.dada {
+  float: left;
+  margin: 5rem;
+  font-size: 3rem;
+}
+
+.foot {
+  height: 20rem;
+}
+
+.foot-line ul {
+  text-decoration: none;
+  list-style: none;
+  float: right;
+  margin-right: 7rem
+}
+.foot-line ul li {
+  padding: 10px;
+}
+.foot-line ul h3 {
+  font: 3rem;
+}

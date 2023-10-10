@@ -1,0 +1,31 @@
+.Services {
+  /* background-color: #d1d5db; */
+  height: 70rem;
+}
+.word {
+  border: 2px solid black;
+  border-radius: 2rem;
+  width: 15rem;
+  height: 10rem;
+  padding-top: 3rem;
+  background-color: #111827;
+  color: white;
+}
+.wordpress {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8rem;
+  padding: 3rem;
+}
+.Tilt {
+  transition: transform 0.3s ease-in-out;
+}
+
+.Tilt:hover {
+  transform: scale(5.1);
+}
+
+.Services h1 {
+  padding-top: 3rem;
+}

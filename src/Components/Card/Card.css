@@ -1,0 +1,20 @@
+.img img {
+  height: 31rem;
+  margin-top: 4rem;
+  background-color: ;
+}
+.Card {
+  display: flex;
+  justify-content: space-between;
+  align-item: center;
+  background-color: white;
+  color: black;
+}
+.Card-item {
+  margin: 8rem;
+  font-size: 19px;
+}
+
+.Card-item p {
+  font-weight: bold;
+}

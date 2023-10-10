@@ -1,0 +1,15 @@
+.input {
+    width: 50vw;
+    height: 7vh;
+    font-size: 30px;
+}
+.cont {
+    font-size: 3rem;
+    color: red;
+}
+.btn {
+    color: red;
+    font-size: 2rem;
+    border: 2px solid black;
+    border-radius: 8px;
+}

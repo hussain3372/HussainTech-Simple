@@ -1,0 +1,17 @@
+.Banner {
+  height: 60vh;
+  margin-top: 5rem;
+}
+.Banner-text {
+  display: inline-block;
+  justify-constent: center;
+  align-item: center;
+  padding-top: 1rem;
+}
+.Banner-text p {
+  font-size: 2rem;
+}
+
+.Banner-text h1 {
+  font-size: 4rem;
+}

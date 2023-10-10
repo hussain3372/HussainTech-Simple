@@ -1,0 +1,15 @@
+.about{
+    height: 100%;
+
+}
+.para {
+    font-size: 20px;
+    width: 50rem;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.about img {
+    width: 60vw;
+}
